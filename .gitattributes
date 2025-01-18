@@ -1,3 +1,2 @@
 *.gif filter=lfs diff=lfs merge=lfs -text
-*gif filter=lfs diff=lfs merge=lfs -text
-portfolio[[:space:]]bn[[:space:]]laptop[[:space:]]motion.gif filter=lfs diff=lfs merge=lfs -text
+laptop.gif filter=lfs diff=lfs merge=lfs -text
