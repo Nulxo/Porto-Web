@@ -3,14 +3,14 @@
     body {
         display: flex;
         flex-direction: column;
-        margin-left: 20px;
-        margin-right: 20px;
+        margin-left: 0px;
+        margin-right: 0px;
         background:#c6bdac;
     }
 
     img {
-        border-radius: 10px;
-        margin-bottom: 15px;
+        border-radius: 2px;
+        margin-bottom: 5px;
     }
 
     .vid-cont {
@@ -23,7 +23,7 @@
         align-content: center;
         align-items: center;
         overflow-x: scroll;
-        margin-bottom: 15px;
+        margin-bottom: 5px;
         height: auto;
         gap: 20px;
     }
@@ -216,7 +216,7 @@
     .role-txt {
         font-family: "Articulat CF";
         font-weight: 400;
-        font-size: 12px;
+        font-size: 13px;
         line-height: 1.4;
         text-align: left;
     }
