@@ -163,9 +163,9 @@
     .vid-cont {
         display: flex;
         flex-direction: column;
-        padding: 20px; 
         align-items: center;
         overflow-x: scroll;
+        padding: 0 20px;
         margin-bottom: 10px;
         height: auto;
         background: #e1ddd2;
@@ -182,7 +182,7 @@
 
     iframe {
         border-radius: 10px;
-        width: 100%;
+        width: 70%;
         height: 200px;
     }
 
@@ -193,17 +193,17 @@
         align-content: center;
         margin: 8px 0 0 0;
         justify-content: center;
-        width: 400px;
+        width: auto;
     }
 
     p{
         font-family: "Articulat CF";
         font-weight: 400;
         font-size: 16px;
-        width: 200;
+        width: 80%;
         text-align: center;
         line-height: 1.3;
-        height: 50px;
+        height: 70px;
 
     }
 
