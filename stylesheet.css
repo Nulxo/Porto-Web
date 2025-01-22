@@ -163,7 +163,7 @@
     .vid-cont {
         display: flex;
         flex-direction: column;
-        padding: 5px; 
+        padding: 20px; 
         align-items: center;
         overflow-x: scroll;
         margin-bottom: 10px;
