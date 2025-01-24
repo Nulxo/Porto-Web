@@ -158,6 +158,8 @@
         flex-direction: column;
         background: #c6bdac;
         overflow-x: hidden;
+        justify-content: center;
+        align-items: center;
     }
 
 
@@ -169,6 +171,7 @@
         background: #e1ddd2;
         justify-content: space-around;
         align-items: center;
+        width: 100%;
     }
 
     img {
