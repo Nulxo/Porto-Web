@@ -157,9 +157,9 @@
         display:flex;
         flex-direction: column;
         background: #c6bdac;
-        width: auto;
         overflow-y: scroll;
         overflow-x: hidden;
+        width: 100vw;
     }
 
 
